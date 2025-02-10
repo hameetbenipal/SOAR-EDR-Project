@@ -26,4 +26,4 @@ This project integrates LimaCharlie (EDR) and Tines (SOAR) to automate threat de
 
 All steps and documentation for this lab are linked below.
 
-<a href="https://github.com/hameetbenipal/Active-Directory-Project/blob/main/AD%20Project%20Documentation.pdf">Lab Documentation</a>
+<a href="https://github.com/hameetbenipal/SOAR-EDR-Project/blob/main/SOAR%20Project%20Documentation.pdf">Lab Documentation</a>
